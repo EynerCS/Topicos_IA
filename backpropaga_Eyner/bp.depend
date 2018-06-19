@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526228668 source:d:\topicos ia\bp\main.cpp
+	<iostream>
+	"bpnet.h"
+
+1526244496 source:d:\topicos ia\bp\src\bpnet.cpp
+	"bpnet.h"
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1526244941 d:\topicos ia\bp\include\bpnet.h
+
